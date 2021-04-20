@@ -8,7 +8,7 @@
 #include<string>
 #include<cmath>
 
-// The declarations of the class template ’vector’ are below.
+// The declarations of the class template â€™vectorâ€™ are below.
 
 template <typename T> 
 class vector {
@@ -23,7 +23,7 @@ public:
 // Available helper functions that can be used
 
 /* Returns a std::string that is comprised of the given symbol with the given
- * length. E.g. makeErrorString(’#’, 3) returns the string: "###" */
+ * length. E.g. makeErrorString(â€™#â€™, 3) returns the string: "###" */
 
 std::string makeErrorString(char symbol, unsigned int length);
 
